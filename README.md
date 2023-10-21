@@ -2,7 +2,7 @@
 >
 > Topics Covered：[Basic IO operations, Conditionals and Loops, Opertors, Array, Strings, Pointers and Classes]
 >
-> Prepared By : [Ayusha (22070123029)]
+> Prepared By : [Ayusha mohanty (22070123029)]
 
 ### Section 1: Basic IO Operations
 
