@@ -1,10 +1,8 @@
-# Before You Read
 
-> **This is not a comprehensive guide。**
 >
 > Topics Covered：[Basic IO operations, Conditionals and Loops, Opertors, Array, Strings, Pointers and Classes]
 >
-> Prepared By : [Arjun Gautam (22070123043)]
+> Prepared By : [Ayusha (22070123029)]
 
 ### Section 1: Basic IO Operations
 
